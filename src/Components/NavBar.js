@@ -4,8 +4,6 @@ import LoginForm from './LoginForm.js';
 import Home from './Home.js';
 import About from './About.js';
 import Contact from './Contact.js';
-import Twitter from './Contact.js';
-import Instagram from './Contact.js';
 
 import '../App.css';
 
